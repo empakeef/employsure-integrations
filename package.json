@@ -9,6 +9,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/empakeef/employsure-integrations.git"
+  },
   "extensionPack": [ 
     "aaron-bond.better-comments", 
     "aeschli.vscode-css-formatter", 
